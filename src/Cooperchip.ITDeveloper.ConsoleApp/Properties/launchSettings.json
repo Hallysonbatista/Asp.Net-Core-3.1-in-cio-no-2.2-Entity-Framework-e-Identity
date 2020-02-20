@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Cooperchip.ITDeveloper.ConsoleApp": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
